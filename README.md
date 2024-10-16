@@ -1,7 +1,8 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sskzy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sskzy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sskzy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sskzy)
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
+<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 <!--
 **sskzy/sskzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
