@@ -16,5 +16,6 @@ I'm an Open Source contributor and core maintainer at [sskzy](https://github.com
 - 🔭 I’m currently working on rest
 - 🌱 I’m currently learning WeChat Program
 - 📫 How to reach me: 690259811@qq.com
-
+<!--
 I am humble and cautious, good at thinking, code in accordance with Alibaba programming standards, and have a clear structure. Ability to independently solve development problems and possess relevant professional knowledge to be diligent. Careful and capable of completing development work
+-->
